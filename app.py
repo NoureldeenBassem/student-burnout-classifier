@@ -38,6 +38,8 @@ AI Student Impact Dataset to predict a student's **burnout risk level**
 based on their academic habits and AI tool usage.
 
 Fill in the information below and click **Predict** to get a result.
+
+Built By: Noureldin Bassem Mohamed
 """)
 st.divider()
 
