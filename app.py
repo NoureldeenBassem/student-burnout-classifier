@@ -256,5 +256,5 @@ if st.button("🔍 Predict Burnout Risk", use_container_width=True, type="primar
 st.divider()
 st.caption("""
 🎓 Student Burnout Risk Classifier | Built with Support Vector Classifier (SVC)  
-AI & Data Science Internship Project
+Built by: Noureldin Bassem Mohamed
 """)
